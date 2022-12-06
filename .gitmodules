@@ -1,0 +1,3 @@
+[submodule "submodules/quickstart-demo"]
+	path = submodules/quickstart-demo
+	url = https://github.com/aliyun-computenest/quickstart-demo.git
