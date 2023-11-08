@@ -1,8 +1,11 @@
 # QuickStart概览
-| 服务名                          | github地址                                                                                                                          | 部署文档                                                                                                    |
-|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| SpringBoot软件包单ECS部署                      | [https://github.com/aliyun-computenest/springboot-ecs-package-demo](https://github.com/aliyun-computenest/springboot-ecs-package-demo) | [https://aliyun-computenest.github.io/springboot-ecs-package-demo/](https://aliyun-computenest.github.io/springboot-ecs-package-demo/) |
-| SpringBoot镜像单ECS部署                      | [https://github.com/aliyun-computenest/springboot-ecs-image-demo](https://github.com/aliyun-computenest/springboot-ecs-image-demo) | [https://aliyun-computenest.github.io/springboot-ecs-image-demo/](https://aliyun-computenest.github.io/springboot-ecs-image-demo/) |
+| 服务名                   | github地址                                                                                                                          | 部署文档                                                                                                    |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| SpringBoot单机版-软件包部署   | [https://github.com/aliyun-computenest/springboot-ecs-package-demo](https://github.com/aliyun-computenest/springboot-ecs-package-demo) | [https://aliyun-computenest.github.io/springboot-ecs-package-demo/](https://aliyun-computenest.github.io/springboot-ecs-package-demo/) |
+| SpringBoot单机版-镜像部署    | [https://github.com/aliyun-computenest/springboot-ecs-image-demo](https://github.com/aliyun-computenest/springboot-ecs-image-demo) | [https://aliyun-computenest.github.io/springboot-ecs-image-demo/](https://aliyun-computenest.github.io/springboot-ecs-image-demo/) |
+| SpringBoot弹性伸缩版-软件包部署 | [https://github.com/aliyun-computenest/springboot-scaling-ecs-demo](https://github.com/aliyun-computenest/springboot-scaling-ecs-demo) | [https://aliyun-computenest.github.io/springboot-scaling-ecs-demo/](https://aliyun-computenest.github.io/springboot-scaling-ecs-demo/) |
+| WordPress             | [https://github.com/aliyun-computenest/wordpress-ecs-demo](https://github.com/aliyun-computenest/wordpress-ecs-demo) | [https://aliyun-computenest.github.io/wordpress-ecs-demo/](https://aliyun-computenest.github.io/wordpress-ecs-demo/) |
+| 2048小游戏               | [https://github.com/aliyun-computenest/2048-demo](https://github.com/aliyun-computenest/2048-demo) | [https://aliyun-computenest.github.io/2048-demo/](https://aliyun-computenest.github.io/2048-demo/) |
 
 # 服务概览
 
